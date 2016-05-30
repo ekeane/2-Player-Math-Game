@@ -1,9 +1,3 @@
-print "Hello! Welcome to Eamonn's Math Game!!!"  " "
-
-
-# Listed all variables
-
-
 
  @players = [{name: "Player 1", lives: 3},    
    {name: "Player 2", lives: 3 }]
